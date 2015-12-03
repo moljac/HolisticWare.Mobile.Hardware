@@ -1,0 +1,3 @@
+[submodule "external/HolisticWare.Mobile.Hardware.Device"]
+	path = external/HolisticWare.Mobile.Hardware.Device
+	url = https://github.com/moljac/HolisticWare.Mobile.Hardware.Device.git
